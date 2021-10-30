@@ -21,7 +21,7 @@ a {
   max-width: 100%;
   min-height: 100%;
   background-color: #02050A;
-  background-image: radial-gradient(circle closest-corner at 50% 0%, #112D45, #02050A);
+  background-image: radial-gradient(circle closest-corner at 50% 0%, #f30000, #ebf300);
   font-family: 'IBM Plex Mono', sans-serif;
   color: #576380;
   line-height: 28px;
